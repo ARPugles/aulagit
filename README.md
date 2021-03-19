@@ -1,5 +1,5 @@
 # aulagit
 
-# Repositório aula 05
+## Repositório aula 05
 
-# Teste com o GitHub
+Teste com o GitHub
